@@ -8,3 +8,6 @@ body {
 h1 {
   color: #333;
 }
+
+div{background: color( red green blue);}
+button{background-color: blueviolet;}
